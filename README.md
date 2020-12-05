@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Lucas Gabriel G. dos Santos
+
+- ⚡ Fulltime web developer at - [UNINTA](https://uninta.edu.br/)
+- 🔭 I’m currently working on UX/UI
+-  📫 How to reach me: lucas.gabriel@uninta.edu.br
+
 <!--
 **gabrieldocs/gabrieldocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
