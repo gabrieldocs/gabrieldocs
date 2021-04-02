@@ -8,10 +8,8 @@
 - 🔭 I’m currently working with Moodle Plugin Development and have interests on UX/UI for web
 -  📫 How to reach me: lucas.gabriel@uninta.edu.br or [@lucgbrl](https://twitter.com/lucgbrl) and maybe [telegram](https://t.me/lucgbrl)
 
-
-[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
