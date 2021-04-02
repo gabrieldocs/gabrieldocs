@@ -2,6 +2,8 @@
 
 ### Lucas Gabriel G. dos Santos
 
+- ⚡ I have a degree in Computer Engineer (UFC)
+- ⚡ Currently on Software Engineering MBA (FAMEESP)
 - ⚡ Fulltime web developer at - [UNINTA](https://uninta.edu.br/)
 - 🔭 I’m currently working with Moodle Plugin Development and have interests on UX/UI for web
 -  📫 How to reach me: lucas.gabriel@uninta.edu.br
