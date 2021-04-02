@@ -9,7 +9,8 @@
 -  📫 How to reach me: lucas.gabriel@uninta.edu.br or [@lucgbrl](https://twitter.com/lucgbrl) and maybe [telegram](https://t.me/lucgbrl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs&hide=contribs,prs)
+
 
 
 
