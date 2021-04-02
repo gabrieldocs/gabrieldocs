@@ -8,6 +8,11 @@
 - 🔭 I’m currently working with Moodle Plugin Development and have interests on UX/UI for web
 -  📫 How to reach me: lucas.gabriel@uninta.edu.br
 
+
+[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **gabrieldocs/gabrieldocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
