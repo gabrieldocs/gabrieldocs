@@ -9,7 +9,9 @@
 -  📫 How to reach me: lucas.gabriel@uninta.edu.br
 
 
-[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldocs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldocs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
