@@ -2,7 +2,7 @@
 
 ### Lucas G. dos Santos
 
-- ⚡ I have a degree in Computer Engineer (UFC) / Software Engineering MBA Student (FAMEESP)
+- ⚡ I have a degree in Computer Engineer (UFC) / MBA on Software Engineering (FAMEESP)
 - 🌱 I am currently studying PHP, Python and JavaScript
 - ⚡ Fulltime web developer at - [UNINTA](https://uninta.edu.br/)
 - 🔭 I’m currently working with Moodle Plugin Development and have interests on UX/UI for web
